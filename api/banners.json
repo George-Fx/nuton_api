@@ -2,15 +2,15 @@
     "banners": [
         {
             "id": 1,
-            "banner": "https://george-fx.github.io/nuton/banner.png"
+            "banner": "https://george-fx.github.io/nuton_api/baners/01.png"
         },
         {
             "id": 2,
-            "banner": "https://george-fx.github.io/nuton/banner.png"
+             "banner": "https://george-fx.github.io/nuton_api/baners/01.png"
         },
         {
             "id": 3,
-            "banner": "https://george-fx.github.io/nuton/banner.png"
+             "banner": "https://george-fx.github.io/nuton_api/baners/01.png"
         }
     ]
 }
